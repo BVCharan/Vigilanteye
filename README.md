@@ -15,7 +15,7 @@ repository.
 
 ## Quick Start
 
-To quickly get started with Tsunami scans,
+To quickly get started with Vigilanteye scans,
 
 ### Traditional install
  1.  install the following required dependencies:
@@ -25,7 +25,7 @@ To quickly get started with Tsunami scans,
      ncrack >= 0.7
      ```
 
- 1.  start a vulnerable application that can be identified by Tsunami, e.g. an
+ 1.  start a vulnerable application that can be identified by Vigilanteye, e.g. an
       unauthenticated Jupyter Notebook server. The easiest way is to use a docker
       image:
      ```shell
@@ -55,7 +55,7 @@ To quickly get started with Tsunami scans,
      generated artifacts.
 
 ### Docker install
-1.  start a vulnerable application that can be identified by Tsunami, e.g. an
+1.  start a vulnerable application that can be identified by Viigilanteye, e.g. an
     unauthenticated Jupyter Notebook server. The easiest way is to use a docker
     image:
 
